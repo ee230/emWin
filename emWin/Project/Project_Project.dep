@@ -1,0 +1,67 @@
+Dependencies for Project 'Project', Target 'Project': (DO NOT MODIFY !)
+F (.\main.c)(0x56EBECFE)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\Project -I..\Refer\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I Device\Include-DSTM32F40_41xxx -DSTM32F40_41xxx-o ..\obj\main.o --omf_browse ..\obj\main.crf --depend ..\obj\main.d)
+I (C:\(development)\STM32F4\公版\Refer\inc\sys.h)(0x56EBB9F6)
+I (C:\(development)\STM32F4\公版\Refer\inc\stm32f4xx.h)(0x53DBA488)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4.h)(0x51C7B54A)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x51C7B54A)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x51C7B54A)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h)(0x51C7B54A)
+I (C:\(development)\STM32F4\公版\Refer\inc\system_stm32f4xx.h)(0x53DBA499)
+I (C:\(development)\STM32F4\公版\Refer\inc\delay.h)(0x53ECC03B)
+I (C:\(development)\STM32F4\公版\Refer\inc\usart.h)(0x53FECC44)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7B744)
+I (C:\(development)\STM32F4\公版\Refer\inc\holl.h)(0x56EBB076)
+I (C:\(development)\STM32F4\公版\Refer\inc\lcd.h)(0x54390600)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C7B744)
+F (.\startup_stm32f40_41xxx.s)(0x542E6B02)(--cpu Cortex-M4.fp -g --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I Device\Include--list ..\obj\startup_stm32f40_41xxx.lst --xref -o ..\obj\startup_stm32f40_41xxx.o --depend ..\obj\startup_stm32f40_41xxx.d)
+F (..\Refer\src\holl.c)(0x56EBBAAB)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\Project -I..\Refer\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I Device\Include-DSTM32F40_41xxx -DSTM32F40_41xxx-o ..\obj\holl.o --omf_browse ..\obj\holl.crf --depend ..\obj\holl.d)
+I (C:\(development)\STM32F4\公版\Refer\inc\holl.h)(0x56EBB076)
+I (C:\(development)\STM32F4\公版\Refer\inc\stm32f4xx.h)(0x53DBA488)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4.h)(0x00000000)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x00000000)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h)(0x00000000)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h)(0x00000000)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4_simd.h)(0x00000000)
+I (C:\(development)\STM32F4\公版\Refer\inc\system_stm32f4xx.h)(0x53DBA499)
+I (C:\(development)\STM32F4\公版\Refer\inc\delay.h)(0x53ECC03B)
+I (C:\(development)\STM32F4\公版\Refer\inc\sys.h)(0x56EBB9F6)
+I (C:\(development)\STM32F4\公版\Refer\inc\usart.h)(0x53FECC44)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x00000000)
+F (..\Refer\src\usart.c)(0x541D7F62)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\Project -I..\Refer\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I Device\Include-DSTM32F40_41xxx -DSTM32F40_41xxx-o ..\obj\usart.o --omf_browse ..\obj\usart.crf --depend ..\obj\usart.d)
+I (C:\(development)\STM32F4\公版\Refer\inc\sys.h)(0x56EBB9F6)
+I (C:\(development)\STM32F4\公版\Refer\inc\stm32f4xx.h)(0x53DBA488)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4.h)(0x00000000)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x00000000)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h)(0x00000000)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h)(0x00000000)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4_simd.h)(0x00000000)
+I (C:\(development)\STM32F4\公版\Refer\inc\system_stm32f4xx.h)(0x53DBA499)
+I (C:\(development)\STM32F4\公版\Refer\inc\delay.h)(0x53ECC03B)
+I (C:\(development)\STM32F4\公版\Refer\inc\usart.h)(0x53FECC44)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x00000000)
+F (..\Refer\src\delay.c)(0x541A9B81)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\Project -I..\Refer\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I Device\Include-DSTM32F40_41xxx -DSTM32F40_41xxx-o ..\obj\delay.o --omf_browse ..\obj\delay.crf --depend ..\obj\delay.d)
+I (C:\(development)\STM32F4\公版\Refer\inc\delay.h)(0x53ECC03B)
+I (C:\(development)\STM32F4\公版\Refer\inc\sys.h)(0x56EBB9F6)
+I (C:\(development)\STM32F4\公版\Refer\inc\stm32f4xx.h)(0x53DBA488)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4.h)(0x00000000)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x00000000)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h)(0x00000000)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h)(0x00000000)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4_simd.h)(0x00000000)
+I (C:\(development)\STM32F4\公版\Refer\inc\system_stm32f4xx.h)(0x53DBA499)
+I (C:\(development)\STM32F4\公版\Refer\inc\usart.h)(0x53FECC44)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x00000000)
+F (..\Refer\src\sys.c)(0x56EBB9F6)(-c --cpu Cortex-M4.fp -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\Project -I..\Refer\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I Device\Include-DSTM32F40_41xxx -DSTM32F40_41xxx-o ..\obj\sys.o --omf_browse ..\obj\sys.crf --depend ..\obj\sys.d)
+I (C:\(development)\STM32F4\公版\Refer\inc\sys.h)(0x56EBB9F6)
+I (C:\(development)\STM32F4\公版\Refer\inc\stm32f4xx.h)(0x53DBA488)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4.h)(0x00000000)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x00000000)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h)(0x00000000)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h)(0x00000000)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4_simd.h)(0x00000000)
+I (C:\(development)\STM32F4\公版\Refer\inc\system_stm32f4xx.h)(0x53DBA499)
+I (C:\(development)\STM32F4\公版\Refer\inc\delay.h)(0x53ECC03B)
+I (C:\(development)\STM32F4\公版\Refer\inc\usart.h)(0x53FECC44)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x00000000)
+F (..\Refer\src\lcd.c)(0x543906A4)()
